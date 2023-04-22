@@ -1,0 +1,33 @@
+{
+  "name": "bon",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-three/cannon": "^6.5.2",
+    "@react-three/drei": "^9.65.4",
+    "@react-three/fiber": "^8.12.2",
+    "@types/three": "^0.150.2",
+    "babel-plugin-glsl": "^1.0.0",
+    "core-js": "^3.30.1",
+    "expo": "~48.0.11",
+    "expo-gl": "~12.4.0",
+    "expo-status-bar": "~1.4.4",
+    "expo-three": "^7.0.0",
+    "glsl": "^0.0.1",
+    "glsl-noise": "^0.0.0",
+    "glslify": "^7.1.1",
+    "react": "18.2.0",
+    "react-native": "0.71.6",
+    "three": "^0.145.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
