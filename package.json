@@ -1,5 +1,5 @@
 {
-  "name": "bon",
+  "name": "AmazingFractal",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -24,7 +24,9 @@
     "glslify": "^7.1.1",
     "react": "18.2.0",
     "react-native": "0.71.6",
-    "three": "^0.145.0"
+    "react-native-gesture-handler": "^2.9.0",
+    "three": "^0.145.0",
+    "zustand": "^4.3.7"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
